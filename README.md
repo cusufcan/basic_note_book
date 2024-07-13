@@ -19,6 +19,7 @@
     <tr>
         <td><img src="app/src/main/res/drawable/ss1.png" alt="1"></td>
         <td><img src="app/src/main/res/drawable/ss2.png" alt="2"></td>
+        <td><img src="app/src/main/res/drawable/ss3.png" alt="3"></td>
     </tr>
 </table>
 
